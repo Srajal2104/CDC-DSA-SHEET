@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -108,8 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Stack
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
