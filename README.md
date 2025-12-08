@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -286,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
