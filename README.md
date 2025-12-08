@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Sliding Window
 |  |
