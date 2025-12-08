@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
