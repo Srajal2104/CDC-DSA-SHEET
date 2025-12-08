@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0189-rotate-array) |
 ## Tree
 |  |
 | ------- |
