@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [2737-row-with-maximum-ones](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2737-row-with-maximum-ones) |
