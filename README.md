@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0189-rotate-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0189-rotate-array) |
 ## Tree
