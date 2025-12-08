@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0561-array-partition) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3745-maximize-expression-of-three-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3745-maximize-expression-of-three-elements) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
 ## Database
 |  |
