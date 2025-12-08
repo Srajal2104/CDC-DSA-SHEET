@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0189-rotate-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0237-delete-node-in-a-linked-list) |
@@ -196,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
