@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0061-rotate-list) |
+| [0707-design-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0059-spiral-matrix-ii) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
