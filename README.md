@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0152-maximum-product-subarray) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0229-majority-element-ii) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0070-climbing-stairs) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
