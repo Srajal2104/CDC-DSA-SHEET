@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0876-middle-of-the-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1367-linked-list-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1367-linked-list-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1367-linked-list-in-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
