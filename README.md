@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 | [2737-row-with-maximum-ones](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2737-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0860-lemonade-change) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0875-koko-eating-bananas) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 ## Binary Tree
 |  |
 | ------- |
@@ -428,4 +432,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
+## Segment Tree
+|  |
+| ------- |
+| [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
+## Ordered Set
+|  |
+| ------- |
+| [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 <!---LeetCode Topics End-->
