@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0626-exchange-seats) |
+| [1148-article-views-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1757-recyclable-and-low-fat-products) |
 ## Math
 |  |
