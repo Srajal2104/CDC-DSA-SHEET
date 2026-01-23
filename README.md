@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
