@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0769-max-chunks-to-make-sorted) |
 | [0860-lemonade-change](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0860-lemonade-change) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0876-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Tree
 |  |
 | ------- |
