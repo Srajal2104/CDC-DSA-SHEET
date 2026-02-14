@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1143-longest-common-subsequence) |
@@ -549,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
