@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1382-balance-a-binary-search-tree) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0875-koko-eating-bananas) |
 | [1382-balance-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1382-balance-a-binary-search-tree) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1382-balance-a-binary-search-tree) |
