@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
