@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0735-asteroid-collision) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0678-valid-parenthesis-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0769-max-chunks-to-make-sorted) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
