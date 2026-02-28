@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0300-longest-increasing-subsequence) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0318-maximum-product-of-word-lengths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0678-valid-parenthesis-string) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0338-counting-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
