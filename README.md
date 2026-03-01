@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0991-broken-calculator) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1143-longest-common-subsequence) |
 | [1328-break-a-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1328-break-a-palindrome) |
