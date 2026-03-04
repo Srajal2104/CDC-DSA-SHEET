@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2737-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
