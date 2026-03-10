@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0072-edit-distance) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0139-word-break) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1545-find-kth-bit-in-nth-binary-string) |
