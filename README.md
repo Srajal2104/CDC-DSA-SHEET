@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0735-asteroid-collision) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0658-find-k-closest-elements) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -475,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
