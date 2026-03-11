@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0735-asteroid-collision) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0678-valid-parenthesis-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0790-domino-and-tromino-tiling](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1382-balance-a-binary-search-tree) |
@@ -702,10 +706,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Data Stream
 |  |
