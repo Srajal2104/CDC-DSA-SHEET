@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1328-break-a-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1382-balance-a-binary-search-tree) |
+| [1400-construct-k-palindrome-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1400-construct-k-palindrome-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
+| [1400-construct-k-palindrome-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1400-construct-k-palindrome-strings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
+| [1400-construct-k-palindrome-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1400-construct-k-palindrome-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3713-longest-balanced-substring-i) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1143-longest-common-subsequence) |
 | [1328-break-a-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1328-break-a-palindrome) |
+| [1400-construct-k-palindrome-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1400-construct-k-palindrome-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
