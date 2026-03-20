@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2109-adding-spaces-to-a-string) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2315-count-asterisks](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2390-removing-stars-from-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3330-find-the-original-typed-string-i) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2109-adding-spaces-to-a-string) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Tree
 |  |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 ## Segment Tree
 |  |
