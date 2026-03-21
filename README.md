@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0570-managers-with-at-least-5-direct-reports) |
