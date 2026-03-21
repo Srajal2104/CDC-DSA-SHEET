@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2614-prime-in-diagonal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2614-prime-in-diagonal) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 | [2737-row-with-maximum-ones](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2737-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0695-max-area-of-island) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2614-prime-in-diagonal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2614-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2737-row-with-maximum-ones) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2235-add-two-integers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2235-add-two-integers) |
+| [2614-prime-in-diagonal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2614-prime-in-diagonal) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0204-count-primes) |
+| [2614-prime-in-diagonal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2614-prime-in-diagonal) |
 ## Backtracking
 |  |
 | ------- |
