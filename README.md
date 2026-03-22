@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 | [2737-row-with-maximum-ones](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2737-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3745-maximize-expression-of-three-elements) |
