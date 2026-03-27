@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2737-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2614-prime-in-diagonal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2614-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2737-row-with-maximum-ones) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3643-flip-square-submatrix-vertically) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2235-add-two-integers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2235-add-two-integers) |
 | [2614-prime-in-diagonal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2614-prime-in-diagonal) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2390-removing-stars-from-a-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3379-transformed-array) |
 ## Design
 |  |
