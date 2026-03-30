@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0343-integer-break) |
+| [0492-construct-the-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0492-construct-the-rectangle) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0829-consecutive-numbers-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0829-consecutive-numbers-sum) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
