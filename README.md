@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2109-adding-spaces-to-a-string) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2315-count-asterisks](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2315-count-asterisks) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2390-removing-stars-from-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
