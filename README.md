@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0518-coin-change-ii) |
 | [0554-brick-wall](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0554-brick-wall) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0343-integer-break) |
+| [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0678-valid-parenthesis-string) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0343-integer-break) |
+| [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0492-construct-the-rectangle) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0829-consecutive-numbers-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0829-consecutive-numbers-sum) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Queue
 |  |
@@ -788,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
 ## Trie
 |  |
