@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0790-domino-and-tromino-tiling](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0799-champagne-tower) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0696-count-binary-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
