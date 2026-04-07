@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0492-construct-the-rectangle) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0829-consecutive-numbers-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0829-consecutive-numbers-sum) |
+| [0858-mirror-reflection](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0991-broken-calculator) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0204-count-primes) |
+| [0858-mirror-reflection](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0858-mirror-reflection) |
 | [2614-prime-in-diagonal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2614-prime-in-diagonal) |
 ## Backtracking
 |  |
@@ -826,4 +828,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0133-clone-graph) |
+## Geometry
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
