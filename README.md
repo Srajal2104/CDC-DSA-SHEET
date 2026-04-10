@@ -800,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0078-subsets) |
 ## Monotonic Queue
 |  |
