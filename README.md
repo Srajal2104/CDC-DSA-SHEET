@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3693-climbing-stairs-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3745-maximize-expression-of-three-elements) |
 ## Greedy
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Counting
 |  |
 | ------- |
