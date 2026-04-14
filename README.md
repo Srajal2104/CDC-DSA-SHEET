@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1148-article-views-i) |
