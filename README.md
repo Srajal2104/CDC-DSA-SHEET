@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0059-spiral-matrix-ii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0164-maximum-gap) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0078-subsets) |
 ## Monotonic Queue
