@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0895-maximum-frequency-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0895-maximum-frequency-stack) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1207-unique-number-of-occurrences) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0769-max-chunks-to-make-sorted) |
+| [0895-maximum-frequency-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0895-maximum-frequency-stack) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0707-design-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0895-maximum-frequency-stack) |
 | [0933-number-of-recent-calls](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0933-number-of-recent-calls) |
 ## Recursion
 |  |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0895-maximum-frequency-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0895-maximum-frequency-stack) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 ## String Matching
 |  |
