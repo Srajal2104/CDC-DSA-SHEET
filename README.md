@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0895-maximum-frequency-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0895-maximum-frequency-stack) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1207-unique-number-of-occurrences) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1400-construct-k-palindrome-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1400-construct-k-palindrome-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0829-consecutive-numbers-sum) |
 | [0858-mirror-reflection](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0991-broken-calculator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0991-broken-calculator) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -819,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0204-count-primes) |
 | [0858-mirror-reflection](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0858-mirror-reflection) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2614-prime-in-diagonal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2614-prime-in-diagonal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
