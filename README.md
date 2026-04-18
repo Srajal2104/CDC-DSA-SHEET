@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
