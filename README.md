@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0198-house-robber) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0299-bulls-and-cows) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Queue
 |  |
 | ------- |
