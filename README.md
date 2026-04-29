@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3745-maximize-expression-of-three-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3861-minimum-capacity-box](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3861-minimum-capacity-box) |
 ## Greedy
 |  |
 | ------- |
