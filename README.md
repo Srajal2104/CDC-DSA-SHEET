@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0396-rotate-function) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0343-integer-break) |
+| [0396-rotate-function](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0647-palindromic-substrings) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0343-integer-break) |
+| [0396-rotate-function](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0396-rotate-function) |
 | [0479-largest-palindrome-product](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0492-construct-the-rectangle) |
