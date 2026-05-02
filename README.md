@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0492-construct-the-rectangle) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0788-rotated-digits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0788-rotated-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0829-consecutive-numbers-sum) |
 | [0858-mirror-reflection](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
