@@ -14,7 +14,7 @@ class Solution {
                 int temp=matrix[i][j];
                 matrix[i][j]=matrix[i][n-j-1];
                 matrix[i][n-j-1]=temp;
-    }
-}
+            }
+        }
     }
 }
