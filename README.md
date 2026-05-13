@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1400-construct-k-palindrome-strings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
