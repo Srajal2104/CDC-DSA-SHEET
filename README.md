@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1871-jump-game-vii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3660-jump-game-ix) |
 | [3693-climbing-stairs-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3693-climbing-stairs-ii) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1871-jump-game-vii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1871-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1871-jump-game-vii) |
 | [3206-alternating-groups-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3208-alternating-groups-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3634-minimum-removals-to-balance-array) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1871-jump-game-vii) |
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
