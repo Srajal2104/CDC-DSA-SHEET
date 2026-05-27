@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3488-closest-equal-element-queries](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3488-closest-equal-element-queries) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3330-find-the-original-typed-string-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3330-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3798-largest-even-number) |
