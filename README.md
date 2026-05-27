@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0063-unique-paths-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0133-clone-graph) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0164-maximum-gap) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0125-valid-palindrome) |
