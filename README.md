@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0396-rotate-function) |
 | [0458-poor-pigs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0479-largest-palindrome-product) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0695-max-area-of-island) |
