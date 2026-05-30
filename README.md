@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
+| [0386-lexicographical-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1024,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0386-lexicographical-numbers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Rolling Hash
 |  |
