@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0396-rotate-function) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2396-strictly-palindromic-number) |
 ## Graph Theory
 |  |
