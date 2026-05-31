@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0396-rotate-function) |
+| [0419-battleships-in-a-board](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0419-battleships-in-a-board) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
+| [0419-battleships-in-a-board](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0695-max-area-of-island) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0386-lexicographical-numbers) |
+| [0419-battleships-in-a-board](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0589-n-ary-tree-preorder-traversal) |
