@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0496-next-greater-element-i) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
