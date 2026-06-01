@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 | [2784-check-if-array-is-good](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2784-check-if-array-is-good) |
