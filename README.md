@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0474-ones-and-zeroes) |
+| [0477-total-hamming-distance](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0518-coin-change-ii) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0458-poor-pigs) |
+| [0477-total-hamming-distance](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0477-total-hamming-distance) |
 | [0479-largest-palindrome-product](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0492-construct-the-rectangle) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0338-counting-bits) |
+| [0477-total-hamming-distance](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0477-total-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
