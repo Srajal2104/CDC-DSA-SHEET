@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0492-construct-the-rectangle) |
+| [0537-complex-number-multiplication](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0788-rotated-digits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0788-rotated-digits) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0516-longest-palindromic-subsequence) |
+| [0537-complex-number-multiplication](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0696-count-binary-substrings) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0059-spiral-matrix-ii) |
+| [0537-complex-number-multiplication](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0946-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
