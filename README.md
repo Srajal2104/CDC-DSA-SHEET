@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3745-maximize-expression-of-three-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3861-minimum-capacity-box) |
 ## Greedy
 |  |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3330-find-the-original-typed-string-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3330-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3798-largest-even-number) |
+| [3838-weighted-word-mapping](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
