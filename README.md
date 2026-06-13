@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0788-rotated-digits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0788-rotated-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0829-consecutive-numbers-sum) |
