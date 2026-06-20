@@ -942,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0841-keys-and-rooms) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1306-jump-game-iii) |
@@ -1059,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0841-keys-and-rooms) |
 | [1306-jump-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1306-jump-game-iii) |
 ## Bit Manipulation
 |  |
@@ -1181,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0133-clone-graph) |
+| [0841-keys-and-rooms](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0841-keys-and-rooms) |
 ## Geometry
 |  |
 | ------- |
