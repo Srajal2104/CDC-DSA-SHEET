@@ -829,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0998-maximum-binary-tree-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1305-all-elements-in-two-binary-search-trees) |
