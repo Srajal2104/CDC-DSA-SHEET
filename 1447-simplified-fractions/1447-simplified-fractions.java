@@ -11,9 +11,11 @@ class Solution {
         return list;
     }
     public int gcd(int a,int b){
-       if(a==0){
-         return b;
-       }
-       return gcd(b%a,a);
+        while(b!=0){
+            int temp=a%b;
+            a=b;
+            b=temp;
+        }
+        return a;
     }
 }
