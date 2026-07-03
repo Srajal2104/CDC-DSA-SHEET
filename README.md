@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0039-combination-sum) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0075-sort-colors) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0061-rotate-list) |
