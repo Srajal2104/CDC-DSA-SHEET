@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0881-boats-to-save-people) |
+| [0890-find-and-replace-pattern](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0890-find-and-replace-pattern) |
 | [0908-smallest-range-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0791-custom-sort-string) |
+| [0890-find-and-replace-pattern](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0890-find-and-replace-pattern) |
 | [0895-maximum-frequency-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0895-maximum-frequency-stack) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0796-rotate-string) |
+| [0890-find-and-replace-pattern](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0890-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
