@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0516-longest-palindromic-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0583-delete-operation-for-two-strings) |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0232-implement-queue-using-stacks) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0535-encode-and-decode-tinyurl) |
 | [0707-design-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0895-maximum-frequency-stack) |
 | [0933-number-of-recent-calls](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0933-number-of-recent-calls) |
@@ -1240,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0535-encode-and-decode-tinyurl) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
