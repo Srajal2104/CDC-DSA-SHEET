@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1029-two-city-scheduling](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1029-two-city-scheduling) |
 | [1207-unique-number-of-occurrences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1288-remove-covered-intervals) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0881-boats-to-save-people) |
 | [0991-broken-calculator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0991-broken-calculator) |
+| [1029-two-city-scheduling](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1029-two-city-scheduling) |
 | [1328-break-a-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1328-break-a-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1382-balance-a-binary-search-tree) |
 | [1400-construct-k-palindrome-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1400-construct-k-palindrome-strings) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
+| [1029-two-city-scheduling](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
