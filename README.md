@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0746-min-cost-climbing-stairs) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0769-max-chunks-to-make-sorted) |
+| [0781-rabbits-in-forest](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0781-rabbits-in-forest) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0860-lemonade-change) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0763-partition-labels) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0769-max-chunks-to-make-sorted) |
+| [0781-rabbits-in-forest](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0881-boats-to-save-people) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0890-find-and-replace-pattern) |
 | [0895-maximum-frequency-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0895-maximum-frequency-stack) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0781-rabbits-in-forest](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0788-rotated-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0829-consecutive-numbers-sum) |
 | [0858-mirror-reflection](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0858-mirror-reflection) |
