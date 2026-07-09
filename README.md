@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1014-best-sightseeing-pair](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1014-best-sightseeing-pair) |
 | [1029-two-city-scheduling](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1029-two-city-scheduling) |
 | [1207-unique-number-of-occurrences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
+| [1014-best-sightseeing-pair](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1014-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
