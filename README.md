@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3446-sort-matrix-by-diagonals) |
 | [3488-closest-equal-element-queries](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3488-closest-equal-element-queries) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3523-make-array-non-decreasing](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3523-make-array-non-decreasing) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
