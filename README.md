@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1029-two-city-scheduling) |
 | [1207-unique-number-of-occurrences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1260-shift-2d-grid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1861-rotating-the-box) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0946-validate-stack-sequences) |
+| [1260-shift-2d-grid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1545-find-kth-bit-in-nth-binary-string) |
