@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0991-broken-calculator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0991-broken-calculator) |
+| [1006-clumsy-factorial](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1006-clumsy-factorial) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0769-max-chunks-to-make-sorted) |
 | [0895-maximum-frequency-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0946-validate-stack-sequences) |
+| [1006-clumsy-factorial](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0946-validate-stack-sequences) |
+| [1006-clumsy-factorial](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1006-clumsy-factorial) |
 | [1260-shift-2d-grid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
