@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0695-max-area-of-island) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0658-find-k-closest-elements) |
 | [0761-special-binary-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0761-special-binary-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0537-complex-number-multiplication) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
