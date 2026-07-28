@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0299-bulls-and-cows) |
@@ -1281,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1392-longest-happy-prefix) |
 ## Game Theory
@@ -1299,12 +1301,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0535-encode-and-decode-tinyurl) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1392-longest-happy-prefix) |
