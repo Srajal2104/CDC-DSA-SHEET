@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0895-maximum-frequency-stack) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1207-unique-number-of-occurrences) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -992,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1071,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1306-jump-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1306-jump-game-iii) |
@@ -1198,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0841-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1306-jump-game-iii) |
 ## Bit Manipulation
 |  |
