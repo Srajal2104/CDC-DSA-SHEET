@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3523-make-array-non-decreasing](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3523-make-array-non-decreasing) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3330-find-the-original-typed-string-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3330-find-the-original-typed-string-i) |
