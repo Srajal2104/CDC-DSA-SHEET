@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3523-make-array-non-decreasing](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3523-make-array-non-decreasing) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3446-sort-matrix-by-diagonals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -783,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3330-find-the-original-typed-string-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3330-find-the-original-typed-string-i) |
