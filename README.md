@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1014-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1447-simplified-fractions) |
 | [1840-maximum-building-height](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1309,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Trie
 |  |
@@ -1360,4 +1364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0458-poor-pigs) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
