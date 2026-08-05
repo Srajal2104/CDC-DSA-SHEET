@@ -1099,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1306-jump-game-iii) |
 | [1367-linked-list-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1382-balance-a-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1306-jump-game-iii) |
+| [3310-remove-methods-from-project](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1358,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0841-keys-and-rooms) |
+| [3310-remove-methods-from-project](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Geometry
 |  |
