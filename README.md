@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1447-simplified-fractions) |
+| [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -1324,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Trie
 |  |
@@ -1380,8 +1383,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
