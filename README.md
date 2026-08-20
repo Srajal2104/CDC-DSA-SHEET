@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3206-alternating-groups-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3206-alternating-groups-i) |
@@ -1182,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3614-process-string-with-special-operations-ii) |
