@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3861-minimum-capacity-box) |
+| [3921-score-validator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3921-score-validator) |
 ## Greedy
 |  |
 | ------- |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3838-weighted-word-mapping) |
+| [3921-score-validator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3921-score-validator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1189,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3838-weighted-word-mapping) |
+| [3921-score-validator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3921-score-validator) |
 ## Design
 |  |
 | ------- |
