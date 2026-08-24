@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1929-concatenation-of-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1929-concatenation-of-array) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1872-stone-game-viii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3660-jump-game-ix) |
 | [3693-climbing-stairs-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3693-climbing-stairs-ii) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1447-simplified-fractions) |
 | [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2029-stone-game-ix) |
@@ -1160,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1872-stone-game-viii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2574-left-and-right-sum-differences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2574-left-and-right-sum-differences) |
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
@@ -1356,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2029-stone-game-ix) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -1415,12 +1420,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
