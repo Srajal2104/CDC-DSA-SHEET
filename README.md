@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1192,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1560-most-visited-sector-in-a-circular-track) |
 | [1929-concatenation-of-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2109-adding-spaces-to-a-string) |
