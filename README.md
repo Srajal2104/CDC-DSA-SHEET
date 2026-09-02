@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3861-minimum-capacity-box) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3875-construct-uniform-parity-array-i) |
 | [3921-score-validator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3921-score-validator) |
 ## Greedy
 |  |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
