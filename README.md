@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 | [2737-row-with-maximum-ones](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2737-row-with-maximum-ones) |
+| [2740-find-the-value-of-the-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2740-find-the-value-of-the-partition) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2781-length-of-the-longest-valid-substring) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
+| [2740-find-the-value-of-the-partition](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2740-find-the-value-of-the-partition) |
 | [2784-check-if-array-is-good](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2966-divide-array-into-arrays-with-max-difference) |
