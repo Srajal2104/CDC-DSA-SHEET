@@ -755,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3783-mirror-distance-of-an-integer) |
+| [3870-count-commas-in-range](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
