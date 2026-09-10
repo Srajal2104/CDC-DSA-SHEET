@@ -987,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1074,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1306-jump-game-iii) |
 | [1367-linked-list-in-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
