@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0788-rotated-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0829-consecutive-numbers-sum) |
+| [0836-rectangle-overlap](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0908-smallest-range-i) |
@@ -1439,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0858-mirror-reflection) |
 ## Combinatorics
 |  |
