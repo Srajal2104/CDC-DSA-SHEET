@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1480-running-sum-of-1d-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1560-most-visited-sector-in-a-circular-track) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1400-construct-k-palindrome-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1400-construct-k-palindrome-strings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1406-stone-game-iii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1871-jump-game-vii) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1871-jump-game-vii) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2781-length-of-the-longest-valid-substring) |
@@ -1029,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1382-balance-a-binary-search-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2141-maximum-running-time-of-n-computers) |
