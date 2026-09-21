@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3523-make-array-non-decreasing](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3523-make-array-non-decreasing) |
+| [3524-find-x-value-of-array-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3524-find-x-value-of-array-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3524-find-x-value-of-array-i) |
 | [3660-jump-game-ix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3660-jump-game-ix) |
 | [3693-climbing-stairs-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
