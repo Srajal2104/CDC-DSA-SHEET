@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0118-pascals-triangle) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0119-pascals-triangle-ii) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0695-max-area-of-island) |
@@ -1114,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1295,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0654-maximum-binary-tree) |
