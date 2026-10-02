@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0053-maximum-subarray) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0049-group-anagrams) |
@@ -1387,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0047-permutations-ii) |
@@ -1514,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
