@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0991-broken-calculator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0991-broken-calculator) |
 | [1029-two-city-scheduling](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1029-two-city-scheduling) |
 | [1328-break-a-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1328-break-a-palindrome) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0890-find-and-replace-pattern) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -1142,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0895-maximum-frequency-stack) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1526,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
