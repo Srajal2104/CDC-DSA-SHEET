@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1331,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1404,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/0357-count-numbers-with-unique-digits) |
 | [1096-brace-expansion-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Queue
