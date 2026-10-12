@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2781-length-of-the-longest-valid-substring](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2784-check-if-array-is-good) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2781-length-of-the-longest-valid-substring](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2784-check-if-array-is-good](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1376,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Quickselect
