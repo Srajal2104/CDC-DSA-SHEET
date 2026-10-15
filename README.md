@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2784-check-if-array-is-good) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2947-count-beautiful-substrings-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2947-count-beautiful-substrings-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1434,10 +1436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [2659-make-array-empty](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2659-make-array-empty) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3739-count-subarrays-with-majority-element-ii) |
