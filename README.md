@@ -908,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3713-longest-balanced-substring-i) |
 | [3798-largest-even-number](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3921-score-validator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3921-score-validator) |
 ## Sliding Window
 |  |
