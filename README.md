@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3861-minimum-capacity-box](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3921-score-validator) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3446-sort-matrix-by-diagonals) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3643-flip-square-submatrix-vertically) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1393,6 +1396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
