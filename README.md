@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3524-find-x-value-of-array-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3524-find-x-value-of-array-i) |
 | [3660-jump-game-ix](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3446-sort-matrix-by-diagonals) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Srajal2104/CDC-DSA-SHEET/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
